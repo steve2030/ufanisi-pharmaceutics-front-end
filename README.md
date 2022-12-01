@@ -1,6 +1,6 @@
 # Medicine
 
-## By Maurice Nganga
+## Bystephen munyao
 
 ### _medicine_ landing page
 
